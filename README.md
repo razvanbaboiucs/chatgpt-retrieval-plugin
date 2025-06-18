@@ -68,7 +68,7 @@ Follow these steps to quickly set up and run the ChatGPT Retrieval Plugin:
 1. Install Python 3.10, if not already installed.
 2. Clone the repository: `git clone https://github.com/openai/chatgpt-retrieval-plugin.git`
 3. Navigate to the cloned repository directory: `cd /path/to/chatgpt-retrieval-plugin`
-4. Install poetry: `pip install poetry`
+4. Install poetry: `pip install poetry==1.8.5`
 5. Create a new virtual environment with Python 3.10: `poetry env use python3.10`
 6. Activate the virtual environment: `poetry shell`
 7. Install app dependencies: `poetry install`
